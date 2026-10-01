@@ -1,0 +1,7 @@
+{
+  "name": "Ascend Realms — Immersive Productivity Suite",
+  "description": "Local-first desktop workspace for deep work, organized around Realms with Markdown vault persistence, block ID task synchronization, Focus Dungeon, and Steward AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
